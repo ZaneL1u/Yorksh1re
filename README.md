@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning `Vuejs` `Solidjs` `Nestjs`
 - 💬 Ask me about `js` `python` `java` `go`
 - 📫 How to reach me: ezreeeeal@gmail.com
+
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Yorksh1re&show_icons=true&theme=dark)
