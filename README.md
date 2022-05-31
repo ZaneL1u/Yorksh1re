@@ -8,6 +8,3 @@
 - 📫 How to reach me: ezreeeeal@gmail.com
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Yorksh1re&show_icons=true&theme=dark)
-
-公司的项目忙完啦，我又回来啦！！！
-2022-04-21 15:32
