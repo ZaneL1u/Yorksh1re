@@ -8,5 +8,3 @@
 - 📫 How to reach me: ezreeeeal@gmail.com
 
 ![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=Yorksh1re&show_icons=true&theme=dark)
-
-七夕~ 停更一天~
